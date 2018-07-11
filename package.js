@@ -1,5 +1,5 @@
 Package.describe({
-  name: "origen:vulcan-logrocket",
+  name: "origenstudio:vulcan-logrocket",
   version: "0.0.1",
   // Brief, one-line summary of the package.
   summary: "LogRocket integration for VulcanJS",
