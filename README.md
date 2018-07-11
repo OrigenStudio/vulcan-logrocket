@@ -1,5 +1,5 @@
-# Vulcan Sentry
-Sentry integration for VulcanJS
+# Vulcan LogRocket
+LogRocket integration for VulcanJS
 
 ## Set-up
 
